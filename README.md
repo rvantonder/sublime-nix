@@ -22,3 +22,7 @@ those ok.
 
 There is some fun code in here, approximating a proper parser by recursing
 into rules with end conditions matching end of expression.
+
+---
+
+`nix.sublime-syntax` conversion done with Sublime by converting `.tmLanguage` to `sublime-syntax` via `Tools -> Developer -> New syntax from .tmLanguage`
